@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EF947041-A58E-4EF8-8E2B-2F7222CE9A67"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85C870D0-4EE8-4EA9-824E-7C4B74C4A3DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "faiaz_rahman_30024_LOCAL_PERSISTENT/ThirdVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "loadItems()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85C870D0-4EE8-4EA9-824E-7C4B74C4A3DA - 41a4189b5b9f39b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "faiaz_rahman_30024_LOCAL_PERSISTENT.ThirdVC.loadItems() -&gt; ()"
+                  moduleName = "faiaz_rahman_30024_LOCAL_PERSISTENT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faiazrahman/Downloads/faiaz_rahman_30024_LOCAL_PERSISTENT/faiaz_rahman_30024_LOCAL_PERSISTENT/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "85C870D0-4EE8-4EA9-824E-7C4B74C4A3DA - 41a4189b5b9f39b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "faiaz_rahman_30024_LOCAL_PERSISTENT.ThirdVC.loadItems() -&gt; ()"
+                  moduleName = "faiaz_rahman_30024_LOCAL_PERSISTENT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faiazrahman/Downloads/faiaz_rahman_30024_LOCAL_PERSISTENT/faiaz_rahman_30024_LOCAL_PERSISTENT/ThirdVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A21B619-CB9D-4D8E-AB96-28A2BAB41C3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "faiaz_rahman_30024_LOCAL_PERSISTENT/ThirdVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "loadItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1C2A938-ADD0-4B2E-AB01-E99869842F15"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "faiaz_rahman_30024_LOCAL_PERSISTENT/ThirdVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "loadItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
